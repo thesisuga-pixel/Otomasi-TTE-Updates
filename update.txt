@@ -1,1 +1,2 @@
-
+2.0
+https://github.com/thesisuga-pixel/Otomasi-TTE-Updates/releases/download/v2.0/Setup.Otomasi.TTE.exe
